@@ -103,6 +103,20 @@
 
 #### Web (15)
 * App Services
+* API Management Services
+* CDN Profiles
+* Search Services
+* Notification Hubs
+* Notification Hub Namespaces
+* App Service Plans
+* App Service Environments
+* App Service Certificates
+* App Service Domains
+* Media Services
+* SignalIR
+* Power Platform (Preview)
+* Azure Spring Cloud
+* API Connections
 
 #### Mobile (3)
 * App Services
@@ -110,10 +124,43 @@
 * Power Platform (Preview)
 
 #### Containers (6)
+* Container Instances
+* Kubernetes Services
+* Container Registries
+* Batch Accounts
+* Service Fabric Clusters
+* App Services
 
 #### Databases (19)
+* Azure Cosmos DB
+* Azure SQL
+* SQL Databases
+* Azure Database for MySQL Servers
+* Azure Database for PostgreSQL Servers
+* Azure Database for MariaDB Servers
+* SQL Servers
+* Azure Synapse Analytics (Formerly SQL DW)
+* Azure Database Migration Services
+* Azure Cache for Redis
+* SQL Server Stretch Databases
+* Data Factories
+* SQL Elastic Pools
+* Virtual Clusters
+* Managed Databases
+* Elastic Job Agents (Preview)
+* SQL Managed instances
+* SQL Virtual machines
+* SQL Server registeries (Preview)
 
 #### Analytics (14)
+* Azure Synapse Analytics (Formerly SQL Data Warehouse)
+* Azure Databriks
+* HDInsight Clusters
+* Data Factories
+* Power BI Embedded
+* Stream Analytics jobs
+* Data Lake Analytics
+* Analysis Services
 
 #### BlockChain (1)
 * Azure Blockchain Service
