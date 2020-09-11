@@ -172,26 +172,184 @@
 * Azure Blockchain Service
 
 #### AI + Machine Learning (8)
+* Bot Services
+* Cognitive Services
+* Machine Learning
+* Machine Learning Studio (Classic) Web Services
+* Machine Learning Studio (Classic) Workspaces
+* Genomics Accounts
+* Machine Learning Studio (Classic) Web Service Plans
+* Bonsai
 
 #### Internet Of Things (22)
+* IoT Hub
+* Device Provisioning Services
+* IoT Central Applications
+* Function App
+* Event Grid Subscriptions
+* Time Series Insights Environments
+* Time Series Insights Event Sources
+* Time Series Insights Reference Data Sets
+* Time Series Insights Access Policies
+* Stream Analytics Jobs
+* Azure Cosmos DB
+* Logic Apps
+* Machine Learning Studio (Classic) Workspaces
+* Machine Learning Studio (Classic) Web Services
+* Machine Learning Studio (Classic) Web Service Plans
+* Event Hubs
+* Event Hubs Clusters
+* Notification Hubs
+* Notificaton Hub Namespaces
+* Azure Maps Accounts
+* Windows 10 IoT Core Services
+* Azure Stack Edge / Data Box Gateway
 
 #### Mixed Reality (2)
+* Spatial Anchors Accounts
+* Remote Rendering Accounts (Preview)
 
 #### Integration (22)
+* Logic Apps
+* Service Bus
+* API Management Services
+* Event Grid Subscriptions
+* Event Grid Topics
+* Event Grid Domains
+* Data Factories
+* Data Catalog
+* SQL Server Stretch Databases
+* StorSimple Device Managers
+* Relays
+* Integration Accounts
+* Logic Apps Custom Connector
+* Integration Service Environments
+* Azure Stack Edge / Data Box Gateway
+* App Configuration
+* Azure API for FHIR
+* Send Grid Accounts
+* Software as Service (SaaS)
+* Power Platform (Preview)
+* API Connections
+* Scheduler Job Collections
 
 #### Identity (25)
+* Azure Active Directory
+* Azure AD B2C
+* Azure AD Domain Services
+* Azure Information Protection
+* Groups
+* Users
+* Azure AD Connect Health
+* Enterprise Applications
+* App Registrations
+* Identity Governance
+* Azure AD Conditional Access
+* Managed Identities
+* Azure AD Privilaged Identity Management
+* Azure AD Security
+* Azure AD Identity Protection
+* User Settings
+* AD Connect
+* App Proxy
+* Security
+* Tenant Properties
+* Administrative Units
+* Azure AD Roles and Administrators
+* Licenses
+* Create Custom Azure AD Roles
+* External Identities
 
 #### Security (21)
+* Security Center
+* Key Vaults
+* Azure Information Protection
+* Azure Active Directory
+* Application Security Groups
+* Azure Sentinel
+* Extended Security Updates (Preview)
+* Azure AD Security
+* Azure AD Identity Protection
+* Azure AD Identity Secure Store
+* Azure AD Authentication Methods
+* Multi-Factor Authentication
+* Azure AD Conditional Access
+* Azure AD Risky Users
+* Azure AD Risky Sign-ins
+* Azure AD Risk Detections
+* Azure AD Named Locations
+* Azure AD Password Protection
+* Azure AD Privilaged Identity Management
+* Disk Encryption Sets
+* User Settings
 
 #### Devops (8)
+* Devops Starter
+* Azure Devops Organizations
+* Application Insights
+* DevTest Labs
+* API Management Services
+* Lab Services
+* API Connections
+* Application Change Analytics (Preview)
 
 #### Migrate (6)
+* Azure Migrate
+* Recovery Services Vaults
+* Azure Database Migration Services
+* Cost Management + Billing
+* Data Box
+* Azure Stack Edge / Data Box Gateway
 
 #### Monitor (10)
+* Monitor
+* Metrics
+* Alerts
+* Application Insights
+* Activity Log
+* Log Analytics Workspaces
+* Network Watcher
+* Azure Workbooks
+* Diagnostic Settings
+* Application Change Analysis (Preview)
 
 #### Management + Governance (26)
+* Advisor
+* Recovery Services Vaults
+* Cost Management + Billing
+* Servers - Azure Arc (Preview)
+* Policy
+* User Privacy
+* Blueprints (Preview)
+* Resource Graph Explorer
+* Automation Accounts
+* Managed Desktop
+* Service Providers
+* My Customers
+* Service Catalog Managed Application Definitions
+* Managed Applications
+* Managed Applications Center (Preview)
+* Customer lockbox for Microsoft Azure
+* Education
+* Management Groups
+* Resoource Graph Queries
+* Solutions
+* Operation log (Classic)
+* Diagnostic Settings
+* Azure Lighthouse
+* Azure Arc (Preview)
+* Rollouts
+* Application Change Analysis (Preview)
 
 #### Intune (8)
+* Intune
+* Intune App Protection
+* eBooks
+* Intune for Education
+* Client Apps
+* Device Enrollment
+* Devices
+* Security Baselines
 
 #### Other (67)
 * AppDynamics
