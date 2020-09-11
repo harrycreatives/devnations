@@ -161,6 +161,12 @@
 * Stream Analytics jobs
 * Data Lake Analytics
 * Analysis Services
+* Event Hubs
+* Event hubs Clusters
+* Log Analytics Workspaces
+* Data Lake Storage Gen 1
+* Azure Data Explorer Clusters
+* Power Platform (Preview)
 
 #### BlockChain (1)
 * Azure Blockchain Service
